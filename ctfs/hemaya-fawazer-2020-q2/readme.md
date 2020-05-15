@@ -177,4 +177,19 @@ Archive:  decrypted.zip
  extracting: info.txt
 ```
 
+```
+unzip flag.zip
+```
+
+```
+Archive:  flag.zip
+  inflating: flag.bmp
+```
+![flag](./decrypted/flag.bmp)
+
+
 That's it! we successfuly unpacked the file
+
+
+Written by: Turki alsaleem
+[github] (https://github.com/nilput/)
