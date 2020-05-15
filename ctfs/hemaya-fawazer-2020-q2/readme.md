@@ -170,7 +170,6 @@ try decompressing the output file:
 unzip decrypted.py
 ```
 
-### Output:
 ```
 Archive:  decrypted.zip
  extracting: flag.zip
